@@ -10,7 +10,7 @@ This is just so I can keep track of where I am in the rust book
 
 **Important Links**
 
-- [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e)
+- [Rust in Motion](https://www.manning.com/dashboard)
 - [Rust Learning](https://github.com/ctjhoa/rust-learning)
 - [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md)
 - [Half hour to Learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
